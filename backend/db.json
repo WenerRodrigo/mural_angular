@@ -1,28 +1,10 @@
 {
   "pensamentos": [
     {
-      "id": 2,
-      "conteudo": "Estudando React Js",
-      "autoria": "Dev",
-      "modelo": "modelo2"
-    },
-    {
-      "id": 3,
-      "conteudo": "Trilha Full Satck",
-      "autoria": "Trilha Full",
-      "modelo": "modelo3"
-    },
-    {
-      "conteudo": "React Native",
+      "conteudo": "Trilha Full Stack",
       "autoria": "Wener Rodrigo",
-      "modelo": "modelo2",
-      "id": 6
-    },
-    {
-      "conteudo": "Node Js",
-      "autoria": "Rodrigo",
       "modelo": "modelo1",
-      "id": 7
+      "id": 1
     }
   ]
 }
